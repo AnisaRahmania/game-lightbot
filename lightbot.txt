@@ -1,0 +1,615 @@
+Basic:
+1-1:
+	1. maju satu petak
+	2. maju satu petak
+	3. nyalakan lampu
+1-2:
+	1. maju satu petak
+	2. maju satu petak
+	3. hadap kiri
+	4. maju satu petak
+	5. maju satu petak
+	6. hadap kiri
+	7. maju satu petak
+	8. maju satu petak
+	9. nyalakan lampu
+1-3:
+	1. loncat
+	2. hadap kanan
+	3. loncat
+	4. hadap kanan
+	5. loncat
+	6. nyalakan lampu
+1-4:
+	1. maju satu petak
+	2. maju satu petak
+	3. hadap kiri
+	4. loncat
+	5. loncat
+	6. loncat
+	7. loncat
+	8. nyalakan lampu
+1-5:
+	1. nyalakan lampu
+	2. loncat
+	3. maju satu petak
+	4. hadap kiri
+	5. maju satu petak
+	6. nyalakan lampu
+	7. loncat
+	8. hadap kiri
+	9. maju satu petak
+	10. maju satu petak
+	11. nyalakan lampu
+1-6:
+	1. loncat
+	2. hadap kiri
+	3. maju satu petak
+	4. loncat
+	5. nyalakan lampu
+	6. hadap kiri
+	7. maju satu petak
+	8. maju satu petak
+	9. hadap kanan
+	10. loncat
+	11. maju satu petak
+	12. nyalakan lampu
+1-7:
+	1. maju satu petak
+	2. hadap kiri
+	3. loncat
+	4. nyalakan lampu
+	5. loncat
+	6. nyalakan lampu
+	7. hadap kiri
+	8. loncat
+1-8:
+	1. Loncat
+	2. Loncat
+	3. Hadap kanan
+	4. Maju satu petak
+	5. Hadap kiri
+	6. Loncat
+	7. Nyalakan lampu
+	8. Hadap kiri
+	9. Maju satu petak
+	10. Nyalakan lampu
+	11. Loncat
+	12. Nyalakan lampu
+
+Procedures:
+2-1:
+	1. Panggil P1
+	Isi P1:
+		1. Maju satu petak
+		2. Maju satu petak
+		3. Maju satu petak
+		4. Nyalakan lampu
+		5. hadap kiri
+	2. Panggil P1
+	Isi P1:
+		1. Maju satu petak
+		2. Maju satu petak
+		3. Maju satu petak
+		4. Nyalakan lampu
+		5. Hadap kiri
+	3. Panggil P1
+	Isi P1:
+		1. Maju satu petak
+		2. Maju satu petak
+		3. Maju satu petak
+		4. Nyalakan lampu
+		5. Hadap kiri
+2-2:
+	1. Panggil P1
+	Isi P1:
+		1. Maju satu petak
+		2. Hadap Kiri
+		3. Maju satu petak
+	2. Hadap kanan
+	3. Panggil P1
+	Isi P1:
+		1. Maju satu petak
+		2. Hadap Kiri
+		3. Maju satu petak
+	4. Hadap kanan
+	5. Panggil P1
+	Isi P1:
+		1. Maju satu petak
+		2. Hadap Kiri
+		3. Maju satu petak
+	6. Hadap kanan
+	7. Panggil P1
+	Isi P1:
+		1. Maju satu petak
+		2. Hadap kiri
+		3. Maju satu petak
+	8. Nyalakan lampu
+2-3:
+	1. Panggil P1
+	Isi P1:
+		1. Maju satu petak
+		2. Maju satu petak
+		3. Maju satu petak
+		4. Nyalakan lampu
+	2. Hadap kiri
+	3. Loncat
+	4. Hadap kiri
+	5. Panggil P1
+	Isi P1:
+		1. Maju satu petak
+		2. Maju satu Petak
+		3. Maju satu petak
+		4. Nyalakan lampu
+	6. Hadap kanan
+	7. Loncat
+	8. Hadap kanan
+	9. Panggil P1
+	Isi P1:
+		1. Maju satu petak
+		2. Maju satu petak
+		3. Maju satu petak
+		4. Nyalakan lampu
+2-4.
+	1. Panggil P1
+	Isi P1:
+		1. P2
+		Isi P2:
+			1. Maju satu petak
+			2. Nyalakan lampu
+		2. P2
+		Isi P2:
+			1. Maju satu petak
+			2. Nyalakan lampu
+		3. P2
+		Isi P2:
+			1. Maju satu petak
+			2. Nyalakan lampu
+		4. P2
+		Isi P2:
+			1. Maju satu petak
+			2. Nyalakan lampu
+	2. Hadap kanan
+	3. Maju satu petak
+	4. Maju satu petak
+	5. Hadap kanan
+	6. Panggil P1
+	Isi P1:
+		1. P2
+		Isi P2:
+			1. Maju satu Petak
+			2. Nyalakan lampu
+		2. P2
+		Isi P2:
+			1. Maju satu Petak
+			2. Nyalakan lampu
+		3. P2
+		Isi P2:
+			1. Maju satu Petak
+			2. Nyalakan lampu
+		4. P2
+		Isi P2:
+			1. Maju satu Petak
+			2. Nyalakan lampu
+	7. Hadap kiri
+	8. Maju satu petak
+	9. Maju satu petak
+	10. Hadap kiri
+	11. Panggil P1
+	Isi P1:
+		1. P2
+		Isi P2:
+			1. Maju satu petak
+			2. Nyalakan lampu
+		2. P2
+		Isi P2:
+			1. Maju satu Petak
+			2. Nyalakan lampu
+		3. P2
+		Isi P2:
+			1. Maju satu Petak
+			2. Nyalakan lampu
+		4. P2
+		Isi P2:
+			1. Maju satu Petak
+			2. Nyalakan lampu
+2-5:
+	1. Pnggil P1
+	Isi P1:
+		1. Nyalakan lampu
+		2. Loncat
+		3. Nyalakan Lampu
+		4. Loncat
+		5. Nyalakan lampu
+		6. Loncat
+		7. Nyalakan lampu
+		8. Loncat
+	2. Panggil P2
+	3. Maju satu petak
+	4. Hadap kanan
+	5. Maju satu petak
+	6. Panggil P1
+	Isi P1:
+		1. Nyalakan lampu
+		2. Loncat
+		3. Nyalakan Lampu
+		4. Loncat
+		5. Nyalakan lampu
+		6. Loncat
+		7. Nyalakan lampu
+		8. Loncat 
+	7. Panggil P2
+	Isi P2:
+		1. Hadap kiri
+		2. Maju satu petak
+		3. Hadap kiri
+		4. Maju satu petak
+		5. Maju satu petak
+		6. Maju satu petak
+		7. Maju satu petak
+		8. Hadap kanan
+	8. Maju satu petak
+	9. Hadap kanan
+	10. Maju satu petak
+	11. Panggil P1
+	Isi P1
+		1. Nyalakan lampu
+		2. Loncat
+		3. Nyalakan Lampu
+		4. Loncat
+		5. Nyalakan lampu
+		6. Loncat
+		7. Nyalakan lampu
+		8. Loncat 
+2-6:
+	1. Panggil P1
+	Isi P1:
+		1. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		2. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		3. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		4. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		5. Maju swatu petak
+		6. Loncat
+		7. Loncat
+		8. Maju satu petak
+	2. Hadap Kiri
+	3. Panggil P1
+	Isi P1:
+		1. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		2. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		3. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		4. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		5. Maju satu pewtak
+		6. Loncat
+		7. Loncat
+		8. Maju satu petak
+	4. Hadap kiri
+	5. Panggil P1
+	Isi P1:
+		1. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		2. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		3. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		4. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		5. Maju swatu petak
+		6. Loncat
+		7. Loncat
+		8. Maju satu petak
+	6. Hadap kiri
+	7. Panggil P1
+	Isi P1:
+		1. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		2. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		3. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		4. P2
+		Isi P2:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+		5. Maju swatu petak
+		6. Loncat
+		7. Loncat
+		8. Maju satu petak
+	8. Hadap kiri
+
+Loops:
+3-1:
+	1. Panggil P1
+	Isi P1:
+		1. Maju satu petak
+		2. Nyalakan lampu
+		3. Panggil P1
+		Isi P1:
+			1. Maju satu petak
+			2. Nyalakan lampu
+			3. Panggil P1
+			Isi P1:
+				1. Maju satu petak
+				2. Nyalakan lampu
+				3. Panggil P1
+				Isi P1:
+					1. Maju satu petak
+					2. Nyalakan lampu
+					3. Panggil P1
+					Isi P1:
+						1. Maju satu petak
+						2. Nyalakan lampu
+						3. Panggil P1
+						Isi P1:
+							1. Maju satu petak
+							2. Nyalakan lampu
+							3. Panggil P1
+3-2:
+	1. Panggil P1
+	Isi P1:
+		1. Loncat
+		2. Nyalakan lampu
+		3. Panggil P1
+		Isi P1:
+			1. Loncat
+			2. Nyalakan lampu
+			3. Panggil P1
+			Isi P1:
+				1. Loncat
+				2. Nyalakan lampu
+				3. Panggil P1
+				Isi P1:
+					1. Loncat
+					2. Nyalakan lampu
+					3. Panggil P1
+					Isi P1:
+						1. Loncat
+						2. Nyalakan lampu
+						3. Panggil P1
+						Isi P1:
+							1. Loncat
+							2. Nyalakan lampu
+							3. Panggil P1
+3-3:
+1. Panggil P1
+Isi P1:
+	1. Maju satu petak
+	2. Nyalakan lampu
+	3. Hadap kiri
+	4. Maju satu petak
+	5. Loncat
+	6. Nyalakan Lampu
+	7. Loncat
+	8. Panggil P1
+	Isi P1:
+		1. Maju satu petak
+		2. Nyalakan lampu
+		3. Hadap kiri
+		4. Maju satu petak
+		5. Loncat
+		6. Nyalakan Lampu
+		7. Loncat
+		8. Panggil P1
+		Isi P1:
+			1. Maju satu petak
+			2. Nyalakan lampu
+			3. Hadap kiri
+			4. Maju satu petak
+			5. Loncat
+			6. Nyalakan Lampu
+			7. Loncat
+			8. Panggil P1
+			Isi P1:
+				1. Maju satu petak
+				2. Nyalakan lampu
+				3. Hadap kiri
+				4. Maju satu petak
+				5. Loncat
+				6. Nyalakan Lampu
+				7. Loncat
+				8. Panggil P1
+3-4:
+1. Panggil P1
+Isi P1
+	1. Nyalakan lampu
+	2. Maju satu petak
+	3. Hadap kiri
+	4. Maju satu petak
+	5. Nyalakan lampu
+	6. Hadap kanan
+	7. Nyalakan lampu
+	8. Panggil P1
+	Isi P1:
+		1. Nyalakan lampu
+		2. Maju satu petak
+		3. Hadap kiri
+		4. Maju satu petak
+		5. Nyalakan lampu
+		6. Hadap kanan
+		7. Nyalakan lampu
+		8. Panggil P1
+		Isi P1:
+			1. Nyalakan lampu
+			2. Maju satu petak
+			3. Hadap kiri
+			4. Maju satu petak
+			5. Nyalakan lampu
+			6. Hadap kanan
+			7. Nyalakan lampu
+			8. Panggil P1
+3-5:
+1. Panggil P1
+Isi P1:
+	1. Nyalakan lampu
+	2. Loncat
+	3. Nyalakan lampu
+	4. Maju satu petak
+	5. Nyalakan lampu
+	6. Maju satu petak
+	7. Nyalakan lampu
+	8. Panggil P2
+	Isi P2:
+		1. Loncat
+		2. Hadap kiri
+		3. Panggil P1
+		Isi P1:
+			1. Nyalakan lampu
+			2. Loncat
+			3. Nyalakan lampu
+			4. Maju satu petak
+			5. Nyalakan lampu
+			6. Maju satu petak
+			7. Nyalakan lampu
+			8. Panggil P2
+			Isi P2:
+				1. Loncat
+				2. Hadap kiri
+				3. Panggil P1
+				Isi P1:
+					1. Nyalakan lampu
+					2. Loncat
+					3. Nyalakan lampu
+					4. Maju satu petak
+					5. Nyalakan lampu
+					6. Maju satu petak
+					7. Nyalakan lampu
+					8. Panggil P2
+					Isi P2:
+						1. Loncat
+						2. Hadap kiri
+						3. Panggil P1
+						Isi P1:
+							1. Nyalakan lampu
+							2. Loncat
+							3. Nyalakan lampu
+							4. Maju satu petak
+							5. Nyalakan lampu
+							6. Maju satu petak
+							7. Nyalakan lampu
+							8. Panggil P2
+							Isi P2:
+							1. Loncat
+							2. Hadap kiri
+							3. Panggil P1
+3-6:
+1. Panggil P1:
+Isi P1
+	1. Nyalakan lampu
+	2. Loncat
+	3. Hadap kiri
+	4. Maju satu petak
+	5. Nyalakan lampu
+	6. Hadap kanan loncat
+	7. Panggil P2
+	Isi P2:
+		1. Hadap kanan
+		2. Maju satu petak
+		3. Hadap kiri
+		4. Loncat
+		5. Loncat
+		6. Hadap kiri
+		7. Panggil P1
+		Isi P1:
+			1. Nyalakan lampu
+			2. Loncat
+			3. Hadap kiri
+			4. Maju satu petak
+			5. Nyalakan lampu
+			6. Hadap kanan loncat
+			7. Panggil P2
+			Isi P2:
+				1. Hadap kanan
+				2. Maju satu petak
+				3. Hadap kiri
+				4. Loncat
+				5. Loncat
+				6. Hadap kiri
+				7. Panggil P1
+				Isi P1:
+					1. Nyalakan lampu
+					2. Loncat
+					3. Hadap kiri
+					4. Maju satu petak
+					5. Nyalakan lampu
+					6. Hadap kanan loncat
+					7. Panggil P2
+					Isi P2:
+						1. Hadap kanan
+						2. Maju satu petak
+						3. Hadap kiri
+						4. Loncat
+						5. Loncat
+						6. Hadap kiri
+						7. Panggil P1
+						Isi P1:
+							1. Nyalakan lampu
+							2. Loncat
+							3. Hadap kiri
+							4. Maju satu petak
+							5. Nyalakan lampu
+							6. Hadap kanan loncat
+							7. Panggil P2
+							Isi P2:
+								1. Hadap kanan
+								2. Maju satu petak
+								3. Hadap kiri
+								4. Loncat
+								5. Loncat
+								6. Hadap kiri
+								7. Panggil P1
+
+		 
